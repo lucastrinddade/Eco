@@ -1,0 +1,7 @@
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/controller/RegistroResiduoController.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/CorsConfig.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/service/RegistroResiduoService.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/model/RegistroResiduo.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/repository/RegistroResiduoRepository.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/EcoReciclaApplication.java
+/home/trindade/Documentos/ecorecicla/backend/src/main/java/com/ecorecicla/controller/GlobalExceptionHandler.java

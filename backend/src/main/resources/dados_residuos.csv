@@ -1,0 +1,31 @@
+municipio,estado,quantidadeGerada,taxaReciclagem,ano
+São Paulo,SP,12500.50,18.5,2023
+Rio de Janeiro,RJ,8900.75,15.2,2023
+Belo Horizonte,MG,4200.30,22.8,2023
+Curitiba,PR,3100.20,35.4,2023
+Porto Alegre,RS,2800.90,28.7,2023
+Salvador,BA,3500.60,12.1,2023
+Fortaleza,CE,2900.40,10.5,2023
+Manaus,AM,2100.80,8.3,2023
+Recife,PE,2400.15,14.6,2023
+Brasília,DF,3200.70,25.9,2023
+Goiânia,GO,1800.35,20.4,2023
+Belém,PA,1600.55,9.8,2023
+Guarulhos,SP,2200.25,16.3,2023
+Campinas,SP,1900.45,30.1,2023
+São Luís,MA,1400.65,7.5,2023
+Maceió,AL,1100.85,11.2,2023
+Natal,RN,1300.95,13.8,2023
+Teresina,PI,1200.75,9.1,2023
+Campo Grande,MS,1500.30,24.6,2023
+João Pessoa,PB,1000.50,16.7,2023
+São Paulo,SP,11800.00,16.2,2022
+Rio de Janeiro,RJ,8600.50,13.9,2022
+Curitiba,PR,2950.80,33.1,2022
+Porto Alegre,RS,2700.40,26.5,2022
+Belo Horizonte,MG,4100.20,20.5,2022
+Florianópolis,SC,900.60,38.2,2023
+Vitória,ES,800.40,31.5,2023
+Aracaju,SE,700.80,17.3,2023
+Porto Velho,RO,600.20,6.4,2023
+Macapá,AP,500.90,5.1,2023
